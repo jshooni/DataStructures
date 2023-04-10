@@ -1,3 +1,4 @@
+// this is from desktop. PUSH 기모찌! 
 typedef struct _list {
 	size_t elem_size ;
 	void * d ;
